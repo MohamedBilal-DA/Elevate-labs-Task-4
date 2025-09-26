@@ -14,6 +14,11 @@ The aim is to showcase **SQL skills for data analysis and reporting**.
 
 ---
 
+##  Imported data from Excel using sql developer
+
+<img width="1920" height="1200" alt="Screenshot 2025-09-26 171731" src="https://github.com/user-attachments/assets/8f71df61-c3be-4cde-8533-98dbfc002026" />
+
+
 ## ⚡ Key Features  
 
 ### 🔎 Basic Data Selection  
